@@ -1,6 +1,6 @@
 # All Restaurants in Des Moines-West Des Moines (Metro), Iowa, US
 
-> Free BeamStation sample export with 65 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `370599` |
 | Location | Des Moines-West Des Moines, IA |
 | Category | Restaurants |
-| Full dataset size | 652 records |
-| Free sample size | 65 records (9.97%) |
-| Last export | 2026-04-14T18:46:05.927817+00:00 |
+| Full dataset size | 287 records |
+| Free sample size | 28 records (9.76%) |
+| Last export | 2026-04-21T20:37:41.272509+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-des-moines-west-des-moines-metro-iowa-us-sample-370599/releases/download/sample-latest/beamstation_370599_restaurants-us-desmoineswestdesmoinesia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
