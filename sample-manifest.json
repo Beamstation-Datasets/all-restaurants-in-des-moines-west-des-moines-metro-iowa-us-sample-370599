@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f08e1ced-c361-416e-8afa-3d1c1aec7576",
+  "export_job_id": "a5f412b7-94b5-40e3-9b6e-c1c47dcc4b8b",
   "id_short": 370599,
-  "published_at": "2026-04-17T19:21:40Z",
+  "published_at": "2026-04-22T07:25:09Z",
   "repo_name": "all-restaurants-in-des-moines-west-des-moines-metro-iowa-us-sample-370599",
   "sample_asset_name": "beamstation_370599_restaurants-us-desmoineswestdesmoinesia_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/370599/beamstation_370599_restaurants-us-desmoineswestdesmoinesia_SAMPLE_DIST.csv",
-  "sample_records": 65,
-  "sample_sha256": "0efd1da45594847df8b8975eb6dadd07032fb7c413d914ef5fb8112b6c9f321f",
-  "sample_size_bytes": 243946,
-  "total_records": 652
+  "sample_records": 28,
+  "sample_sha256": "7da647399ba36161bcd449c68a9e76ed2a0043f0f28a277d600279c2a307544a",
+  "sample_size_bytes": 114317,
+  "total_records": 287
 }
